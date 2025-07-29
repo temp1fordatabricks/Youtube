@@ -1,0 +1,6 @@
+flet
+ffmpeg-python
+opencv-python
+faster-whisper
+requests
+torch

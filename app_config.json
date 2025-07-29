@@ -1,0 +1,16 @@
+{
+  "api_keys": {
+    "perplexity": "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"
+  },
+  "export_settings": {
+    "default_format": "txt",
+    "auto_export": false
+  },
+  "ui_settings": {
+    "theme": "light",
+    "window_size": [
+      800,
+      600
+    ]
+  }
+}

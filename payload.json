@@ -1,0 +1,13 @@
+{
+  "model": "llama-3-sonar-large-32k-chat",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a YouTube title generator."
+    },
+    {
+      "role": "user",
+      "content": "Generate a title for a video with this transcript: "
+    }
+  ]
+}
